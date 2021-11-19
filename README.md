@@ -22,7 +22,8 @@ Hi Developers👋
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/pl/c.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/pl/js.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/pl/ts.png" height="30"></code>
-
+<code><img src="https://i.ibb.co/fqSF1wH/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png" height="30"></code>
+<code><img src="https://i.ibb.co/7tX7Sj0/2459546-middle.png" height="30"></code>
 
 
 
@@ -32,8 +33,7 @@ Hi Developers👋
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/css.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/angular.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/jq.jpg" height="30"></code>
-<code><img src="https://i.ibb.co/fqSF1wH/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png" height="30"></code>
-<code><img src="https://i.ibb.co/7tX7Sj0/2459546-middle.png" height="30"></code>
+
       
 
 #### •Database:
