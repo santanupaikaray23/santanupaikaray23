@@ -54,8 +54,10 @@ Hi Developers👋
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 
-
-|Business Associate| [TATA CONSULTANCY SERVICES] |Currently Working|
+|Previous Employee| [Researchinn] |9th July 2018  to 18th July 2019|
+|Previous Employee| [iDisha info Labs Pvt. Ltd. ] |5th November 2019 to 30th January 2020|        
+|Previous Employee| [Crown Solutions India Pvt. Ltd.] |22th Feb 2021 to 30th Nov 2021|         
+|Present Employee| [TATA CONSULTANCY SERVICES] |Currently Working|
 
 
 
