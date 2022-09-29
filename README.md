@@ -11,7 +11,7 @@ Hi Developers👋
 <a href="https://twitter.com/PaikaraySantanu"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/t.jpg">visit my twitter account</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/santanu-kumar-paikaray-989a181a6/"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/l.png">visit my linkedin account</a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC44Igj1mSwOYsfQo6VUfr9g"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/Yt.png"> visit my youtube channel</a>
-<a href="http://santanukumarpaikarayportfolio.herokuapp.com/"><img height="30" src="https://i.ibb.co/RS354Lr/The-word-PORTFOLIO-over-the-liquid-colorful-background-Horizontal-banner-or-header-for-the-website-V.jpg/Mr-PerFectt/Mr-PerFectt/master/img/social/Capturetest.png"> visit my website</a>
+<a href="http://santanukumarpaikarayportfolio.herokuapp.com/"><img height="30" src="httCapturetest.pngps://i.ibb.co/VqP7k8m/"> visit my website</a>
 
   
 
