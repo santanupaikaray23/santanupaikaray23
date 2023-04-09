@@ -8,7 +8,7 @@ Hi Developers👋
   
 
 <p align="center">
-<a href="https://twitter.com/PaikaraySantanu" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/t.jpg">visit my twitter account</a>&nbsp;&nbsp;
+<a href="https://twitter.com/PaikaraySantanu"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/t.jpg" target="_blank">visit my twitter account</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/santanu-kumar-paikaray-989a181a6/" 
    target="_blank"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/l.png">visit my linkedin account</a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC44Igj1mSwOYsfQo6VUfr9g"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/Yt.png"> visit my youtube channel</a>
