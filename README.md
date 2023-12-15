@@ -12,7 +12,7 @@ Hi Developers👋
 <a href="https://www.linkedin.com/in/santanu-kumar-paikaray-989a181a6/" 
    target="_blank"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/l.png">visit my linkedin account</a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC44Igj1mSwOYsfQo6VUfr9g"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/Yt.png"> visit my youtube channel</a>
-<a href="https://santanukumarpaikaray.onrender.com/"><img height="30" src="https://icon2.cleanpng.com/20180203/lbq/kisspng-world-wide-web-internet-icon-world-wide-web-png-file-5a75a1a7cfaee4.4419559915176585358507.jpg"> visit my website</a>
+<a href="https://santanukumarpaikaray.onrender.com/" target="_blank"><img height="30" src="https://icon2.cleanpng.com/20180203/lbq/kisspng-world-wide-web-internet-icon-world-wide-web-png-file-5a75a1a7cfaee4.4419559915176585358507.jpg"> visit my website</a>
 
   
 
