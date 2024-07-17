@@ -60,7 +60,6 @@ Hi Developers👋
 |Previous Employee| [Prince HR Services Private Limited] |04th Sept 2019 to 30th Sept 2019|<br>
 |Previous Employee| [iDisha info Labs Pvt. Ltd. ] |5th November 2019 to 30th January 2020|<br>
 |previous Employee| [Dixit Infotech Services Pvt Ltd] |22th June 2020 to 31th Aug 2020|<br>
-|Previous Employee| [Sheerdrive Private Limited] |18th Feb 2021 to 2nd Mar 2021|<br>
 |Previous Employee| [Crown Solutions India Pvt. Ltd.] |4th Mar 2021 to 30th Nov 2021|<br>  
 |Previous Employee| [TATA CONSULTANCY SERVICES Ltd] | 6th Dec 2021 to 30th Oct 2023|<br>
 |Current Employee| [Sheerdrive Private Limited] |13th May 2024 to Currently Working|
