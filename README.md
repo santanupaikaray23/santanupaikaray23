@@ -53,7 +53,7 @@ Hi Developers👋
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
+|  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 
 |Previous Employer| [Researchinn] |9th July 2018  to 13th Oct 2018|<br>
