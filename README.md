@@ -12,7 +12,7 @@ Hi Developers👋
 <a href="https://www.linkedin.com/in/santanu-kumar-paikaray-989a181a6/" 
    target="_blank"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/l.png">visit my linkedin account</a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC44Igj1mSwOYsfQo6VUfr9g" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/Yt.png"> visit my youtube channel</a>
-<a href="https://santanukumar.onrender.com/" target="_blank"><img height="30" src="https://icon2.cleanpng.com/20180203/lbq/kisspng-world-wide-web-internet-icon-world-wide-web-png-file-5a75a1a7cfaee4.4419559915176585358507.jpg"> visit my website</a>
+<a href="https://santanupaikaray.onrender.com/" target="_blank"><img height="30" src="https://i.ibb.co/3Y8g43Rr/607b90786cbdaacb3abf7e46fa74d44e.png"> visit my website</a>
 
   
 
@@ -56,13 +56,11 @@ Hi Developers👋
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 
-|Previous Employee| [Researchinn] |9th July 2018  to 13th Oct 2018|<br>
-|Previous Employee| [Prince HR Services Private Limited] |04th Sept 2019 to 30th Sept 2019|<br>
-|Previous Employee| [iDisha info Labs Pvt. Ltd. ] |5th November 2019 to 30th January 2020|<br>
-|previous Employee| [Dixit Infotech Services Pvt Ltd] |22th June 2020 to 31th Aug 2020|<br>
-|Previous Employee| [Crown Solutions India Pvt. Ltd.] |4th Mar 2021 to 30th Nov 2021|<br>  
-|Previous Employee| [Tata Consultancy Services Ltd] | 6th Dec 2021 to 30th Oct 2023|<br>
-|Current Employee| [Sheerdrive Private Limited] |13th May 2024 to Currently Working|
+|Previous Employer| [Researchinn] |9th July 2018  to 13th Oct 2018|<br>
+|Previous Employer| [iDisha info Labs Pvt. Ltd. ] |04th Sept 2019 to 30th January 2020|<br>
+|previous Employer| [Dixit Infotech Services Pvt Ltd] |22th June 2020 to 31th Aug 2020|<br>
+|Previous Employer| [Tata Consultancy Services Ltd] | 4th Mar 2021 to 30th Oct 2023|<br>
+|Current Employer| [Sheerdrive Private Limited] |13th May 2024 to Currently Working|
 
 
 
